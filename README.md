@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Merhaba,%20Ben%20[Ahmet]&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Merhaba,%20Ben%20Ahmet&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
   
   <h3>
     🚀 Full Stack Geliştirici | 🎮 Oyun Geliştirici | 🤖 Senior Java
@@ -13,23 +13,21 @@
 
   <p>
     </a>
-    <a href="mailto:[ahmewt5@gmail.com]">
+    <a href="mailto:ahmewt5@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://[noxusweb].com">
+    <a href="https://noxusweb.com">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
-    <a href="https://www.kaggle.com/[ahmettunc47]">
+    <a href="https://www.kaggle.com/ahmettunc47">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
     </a>
-    <a href="https://[noxusweb].com">
-      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
+    
     <
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=[ahmewt5-beep]&label=Profil+Görüntülenme&color=blueviolet&style=flat" alt="profil-sayaci" />
+  <img src="https://komarev.com/ghpvc/?username=ahmewt5-beep&label=Profil+Görüntülenme&color=blueviolet&style=flat" alt="profil-sayaci" />
 </div>
 
 <hr/>
@@ -169,13 +167,13 @@
 <div align="center">
   <h3>📊 GitHub Analizleri</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=[ahmewt5-beep]&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmewt5-beep&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ahmewt5-beep]&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmewt5-beep&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ahmewt5-beep]&theme=radical&hide_border=true" height="180" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmewt5-beep&theme=radical&hide_border=true" height="180" alt="streak" />
 </div>
 
 <hr/>
