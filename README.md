@@ -163,7 +163,7 @@
 
 <hr/>
 
-<div align="center">
+
   ### 📊 GitHub İstatistiklerim
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmewt5-beep&show_icons=true&theme=radical&hide_border=true)
@@ -171,7 +171,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmewt5-beep&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmewt5-beep&theme=radical&hide_border=true)
-</div>
+
 
 <hr/>
 
