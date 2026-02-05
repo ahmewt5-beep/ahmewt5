@@ -1,19 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Merhaba,%20Ben%20[Adınız]&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Merhaba,%20Ben%20[Ahmet]&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
   
   <h3>
     🚀 Full Stack Geliştirici | 🎮 Oyun Geliştirici | 🤖 Senior Java
   </h3>
   
   <p width="600px">
-    Teknolojiyi iş süreçlerini otomatize etmek, yaratıcı oyunlar geliştirmek ve ölçeklenebilir web çözümleri üretmek için kullanıyorum. 
-    Detaylara önem veren, temiz kod yazmayı ilke edinmiş biriyim.
-  </p>
+  🎨 <strong>Kodun sanatla buluştuğu yer.</strong><br>
+  Bir yandan Unity ile hayal dünyalarını gerçeğe dönüştürüyor, diğer yandan Python ile gerçek hayatı otomatize ediyorum. 
+  Oyun geliştirme tutkunu, açık kaynak destekçisi ve problem çözme bağımlısıyım.
+</p>
 
   <p>
     </a>
     <a href="mailto:[ahmewt5@gmail.com]">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://[noxusweb].com">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.kaggle.com/[ahmettunc47]">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
     </a>
     <a href="https://[noxusweb].com">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -162,23 +169,18 @@
 <div align="center">
   <h3>📊 GitHub Analizleri</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[ahmewt5-beep]&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ahmewt5-beep]&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[GITHUB_KULLANICI_ADIN]&theme=radical&hide_border=true" height="180" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ahmewt5-beep]&theme=radical&hide_border=true" height="180" alt="streak" />
 </div>
 
 <hr/>
 
-### 🌱 Şu An Odaklandığım Konular
 
-* 💼 **E-Ticaret Otomasyonu:** Pazaryerleri için toplu işlem yapan Python scriptleri ve API entegrasyonları.
-* 🎮 **Oyun Geliştirme:** Unity ile mobil oyun projeleri ve mekanik tasarımları.
-* 🧠 **Yapay Zeka:** Local LLM modelleri ve görüntü işleme üzerine çalışmalar.
-* 🌐 **Web Çözümleri:** İşletmeler için modern arayüzler ve QR menü sistemleri.
 
 ---
 
