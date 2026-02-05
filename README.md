@@ -21,8 +21,7 @@
     </a>
     <a href="https://www.kaggle.com/ahmettunc47">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-    </a>
-    
+    </a> 
     <
     </a>
   </p>
