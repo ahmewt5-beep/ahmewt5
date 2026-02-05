@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Merhaba,%20Ben%20Ahmet&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
   
   <h3>
-    🚀 Full Stack Geliştirici | 🎮 Oyun Geliştirici | 🤖 Senior Java
+    🚀 Full Stack Geliştirici 
   </h3>
   
   <p width="600px">
