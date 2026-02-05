@@ -166,14 +166,22 @@
 
   ### 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmewt5-beep&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  <h3>📊 GitHub Analizleri (Canlı)</h3>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmewt5-beep&theme=radical" alt="profile-details" />
+  
+  <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmewt5-beep&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmewt5-beep&theme=radical" alt="languages" />
+  
+  <br/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmewt5-beep&theme=radical&hide_border=true)
-
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmewt5-beep&theme=radical" alt="productive-time" />
+</div>
 <hr/>
+
+
 
 
 
