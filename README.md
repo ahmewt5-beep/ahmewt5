@@ -7,8 +7,6 @@
   
   <p width="600px">
   🎨 <strong>Kodun sanatla buluştuğu yer.</strong><br>
-  Bir yandan Unity ile hayal dünyalarını gerçeğe dönüştürüyor, diğer yandan Python ile gerçek hayatı otomatize ediyorum. 
-  Oyun geliştirme tutkunu, açık kaynak destekçisi ve problem çözme bağımlısıyım.
 </p>
 
   <p>
