@@ -161,26 +161,6 @@
 <hr/>
 
 
-  ### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <h3>📊 GitHub Analizleri (Canlı)</h3>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmewt5-beep&theme=radical" alt="profile-details" />
-  
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmewt5-beep&theme=radical" alt="languages" />
-  
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmewt5-beep&theme=radical" alt="productive-time" />
-</div>
-<hr/>
-
-
-
-
 
 ---
 
